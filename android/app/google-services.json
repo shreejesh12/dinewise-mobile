@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241424743144",
+    "project_id": "dinewise-e4909",
+    "storage_bucket": "dinewise-e4909.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241424743144:android:6f368ed4bfe8d06e69e75d",
+        "android_client_info": {
+          "package_name": "com.dinewise.mumbai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0z2kD-CqwmEIRbeWCkZ0csLmX0fThCaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

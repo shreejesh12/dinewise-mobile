@@ -1,0 +1,5 @@
+{
+  "name": "DineWise Mumbai",
+  "description": "Smart Cafe & Restaurant Discovery, Budget Planner, and Dine-In Booking application for Santacruz and Vile Parle.",
+  "requestFramePermissions": ["geolocation"]
+}

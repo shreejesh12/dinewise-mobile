@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DineWise Mumbai</string>
+    <string name="title_activity_main">DineWise Mumbai</string>
+    <string name="package_name">com.dinewise.mumbai</string>
+    <string name="custom_url_scheme">com.dinewise.mumbai</string>
+</resources>
